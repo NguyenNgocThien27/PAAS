@@ -1,7 +1,3 @@
-# PAAS
-Build an architecture for Customer Data Platform
-# PAAS
-Build an architecture for Customer Data Platform
 # README PaaS Repository
 PaaS repository intends to build an architecture to Extract, Transform, Load and Visualize data with both batching and streaming. 
 
